@@ -4,6 +4,6 @@ def sortString(str):
     return reduce(lambda a, b : a + b, sorted(str))
       
 
-str = 'RALFS'
+str = 'POG'
 print(sortString(str))
 
